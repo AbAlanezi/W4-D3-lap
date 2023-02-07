@@ -1,0 +1,19 @@
+.feldinput{
+  
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.plac{
+  margin: 1.5px;
+  width: 100%;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
